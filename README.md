@@ -1,0 +1,1 @@
+create a base pipeline, specify and pass parameteres to a task and pipeline. You learned how to modify your pipeline to reference the task and configure its parameters. You also learned how to pass additional parameters to a pipeline and how to run it to echo and clone a Git repository.
